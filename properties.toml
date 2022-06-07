@@ -1,0 +1,6 @@
+[url]
+url = "http://13.49.131.32:8080"
+urlWeb = "http://13.49.131.32"
+
+[drivers]
+driverChrome = "chrome"
